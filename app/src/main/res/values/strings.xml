@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="last_updated_at"> Last updated at : %s</string>
+    <string name="rupee">₹%s</string>
+    <string name="star">%s⭐</string>
+    <string name="off">%s%% OFF</string>
+    <string name="stock">%s stocks are available</string>
+</resources>
